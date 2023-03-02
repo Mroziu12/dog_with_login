@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626872943880",
+    "project_id": "log-and-dog",
+    "storage_bucket": "log-and-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626872943880:android:5e3e9f189027a049da18bd",
+        "android_client_info": {
+          "package_name": "com.example.dog_with_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626872943880-9ciusqua299rvfd6l9ktqsk17cekcn4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3gMUWgVJf6S54PEtLVWhDXSYg7LjQulA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626872943880-9ciusqua299rvfd6l9ktqsk17cekcn4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
