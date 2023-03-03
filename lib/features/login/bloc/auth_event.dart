@@ -19,3 +19,16 @@ class AuthLogIn extends Equatable {
   @override
   List<Object> get props => [email, password];
 }
+
+class AuthSignUp extends Equatable {
+  final String email;
+  final String password;
+
+  AuthSignUp({
+    required this.email,
+    required this.password,
+  });
+
+  @override
+  List<Object> get props => [email, password];
+}
